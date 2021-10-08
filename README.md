@@ -1,16 +1,12 @@
-# flutter_responsive_framework
+# Flutter Responsive Framework
 
-A new Flutter project.
+![Bad Viewport Selector Animated](https://user-images.githubusercontent.com/49618856/136602268-c607871e-8b33-450f-b69a-bda5e3c7c8d6.gif)
 
-## Getting Started
+## Demo App
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+- Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- https://pub.dev/packages/responsive_framework
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
